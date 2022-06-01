@@ -7,7 +7,8 @@ A web page that receives values between 1 and 100 and displays the following res
 - Highest and lowest value registered
 - Sum and average of the registered values <br>
 
-The page was made as part of Gustavo Guanabara's JavaScript course from the "Curso em Vídeo". The page is in Portuguese (PT-BR).
+The page was made as part of Gustavo Guanabara's JavaScript course from the "Curso em Vídeo". The page is in Portuguese (PT-BR).<br>
+It is available <a href="https://vitorfnery.github.io/NumberAnalyser/" target="_blank">here</a>.
 
 ## Techonologies
 
